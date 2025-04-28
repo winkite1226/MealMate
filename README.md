@@ -1,3 +1,4 @@
+# MealMate
 ## Commit Types
 | Type             | Description                                                                 |
 |------------------|-----------------------------------------------------------------------------|
@@ -18,3 +19,20 @@
 | Perf             | Improving performance                                                       |
 | Ci               | Continuous Integration or deployment changes                                |
 | Init             | Initial commit or project setup                                             |<br />
+
+## Wireframe
+<details>
+<summary> Wireframe </summary>
+<div markdown="1">
+  
+![로그인 화면](https://github.com/user-attachments/assets/b17bc0db-4fae-456d-9007-714b89dd43d4)
+![회원가입 화면](https://github.com/user-attachments/assets/36b70a46-636a-4bcd-9dea-18e92bbc81af)
+![메인화면](https://github.com/user-attachments/assets/e441877c-1d8a-4f3c-b6f2-c3ce936add2a)
+![매칭된 약속 화면](https://github.com/user-attachments/assets/39f98345-d102-4b13-b109-42d6ae33a255)
+![지도 화면](https://github.com/user-attachments/assets/42d03c74-9cee-48ff-8ccc-18b5f45a1454)
+![매장정보](https://github.com/user-attachments/assets/70f8c85a-d3ca-44dc-b4ca-bba440194ac9)
+![Android Large - 2](https://github.com/user-attachments/assets/d8fc1327-433d-4918-8695-13aa1f51f7b4)
+![Android Large - 1 (1)](https://github.com/user-attachments/assets/1a0290e3-ec51-4615-93d2-d2e60e714ecf)
+
+</div>
+</details>
