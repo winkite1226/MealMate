@@ -42,8 +42,7 @@
 <summary> Database </summary>
 <div markdown="1">
   
-![MyProject](https://github.com/user-attachments/assets/a79a36a3-7251-4a94-b07b-730485af293a)
-
+![MyProject (1)](https://github.com/user-attachments/assets/5444e08d-76ba-4f6d-9903-b8c70f90f5d1)
 
 </div>
 </details>
