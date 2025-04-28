@@ -47,3 +47,49 @@
 
 </div>
 </details>
+
+## Functional Specification
+<details>
+<summary> Signup & Signin </summary>
+<div markdown="1">
+  
+  - Signup for users(Signup ID, Password, Email, Name, Phone number)
+  - Validate for duplicate Signup ID, Email
+  - Verification code with user's email
+  - Signup ID must be at least 5 characters and at most 20 characters, and must include both English and numeric characters
+  - Password must be at least 8 characters and at most 16 characters, and must include all English, numeric, and special characters
+  - The password input and password re-type values must be matched
+  - Signin using JwtToken authentication
+  - Signin with Social media(Google, Kakao, Naver)
+
+</div>
+</details>
+
+<details>
+<summary> Register new plan for eating </summary>
+<div markdown="1">
+
+- Show map with restaurants pointed
+    - User can get restaurants information by page up
+    - User location based using GPS
+- Two input forms for location, date&time
+- Three input forms for limitation the number of people, what to eat, what to talk about
+- As soon as user makes a plan for eating, a chat room is created and user is taken there.
+    
+</div>
+</details>
+
+<details>
+<summary> My page </summary>
+<div markdown="1">
+
+- Show profile information(Profile image, Signin ID, Email, Name, Phone number, Hobby, MBTI)
+- Edit profile information
+    - Profile image, Phone number, Country, Hobby, MBTI
+    - save existing content if no changes are made
+- Show the articles I wrote
+- Show the comments I wrote
+- Show the chatrooms of plans for eating I'll participate in
+
+</div>
+</details>
